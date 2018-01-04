@@ -26,10 +26,10 @@ define('DB_NAME', 'clothing-shop');
 define('DB_USER', 'root');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'Qs.123');
 
 /** MySQL主机 */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '35.187.220.213');
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8mb4');
